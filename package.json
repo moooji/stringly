@@ -1,0 +1,42 @@
+{
+  "name": "stringly",
+  "version": "1.0.0",
+  "description": "String utilities like capitalize, titelize and remove whitespace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moooji/stringly.git"
+  },
+  "keywords": [
+    "strings",
+    "text",
+    "whitespace",
+    "capitalize",
+    "titelize",
+    "lowercase",
+    "uppercase",
+    "mixed",
+    "case"
+  ],
+  "author": "Steffen Strätz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moooji/stringly/issues"
+  },
+  "homepage": "https://github.com/moooji/stringly#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "chai-datetime": "^1.4.1",
+    "eslint": "^2.11.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.8.1",
+    "eslint-plugin-jsx-a11y": "^1.2.3",
+    "eslint-plugin-react": "^5.1.1",
+    "mocha": "^2.5.3",
+    "mocha-eslint": "^2.0.2"
+  }
+}
